@@ -29,7 +29,23 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * StoreKit
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2186.jpeg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2189.jpeg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2191.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2192.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2193.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2194.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/portfolio/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
+<video width="460" height="995" controls>
+  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/breathing.mp4" type="video/mp4">
+</video>
+<video width="460" height="995" controls>
+  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/relaxation.mp4" type="video/mp4">
+</video>
+<video width="460" height="995" controls>
+  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/focus.mp4" type="video/mp4">
+</video>
 </p>
 
 # [Vowpay Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
