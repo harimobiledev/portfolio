@@ -1,22 +1,32 @@
 # IOS-Portfolio
-Overall 8 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Delivery Hero as Sr. Software Engineer (iOS). Deep knowledge of MVVM-C and VIPER with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. Also an active contributor on github (with more than 40 repositories) and stackOverFlow.
+Overall 10 years of experience in Mobile App Development using Swift, SwiftUI and Obj- C. Currently working with Avantari Technologies Pvt Ltd as Lead iOS Engineer. Deep knowledge of MVVM-C and VIPER with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. 
 .
 
-# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
-YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI. 
+# [Dhyana: Meditation Tracker](https://apps.apple.com/in/app/dhyana-meditation-tracker/id1471290028)
+Dhyana is meditation application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, tracks user's heart rate with in-house heart rate monitor via CoreBluetooth framework. App entirely developed in trending Neumorphic theme. Project follows frameworks based modular structure With UI build using Storyboards and SwiftUI.
+
+Dhyana is an iF design award winner in 2020 and also came in Apple Appstore's top chartered 50 list.
 
 ### My Role ###
-Senior iOS developer Communicating with YAP Bussiness team, understanding requirements and sprint planning.
+Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Swift(5)
-* RxSwift
-* Programatic UI
+* Swift
+* SwiftUI
+* Storyboards
+* Autolayouts
 * Modular Approaach
 * Dark mode support
-* Used SwiftUI and Combine for one Module
-* Fastlane + Circle CI
-* Repository Patteren
+* Used Combine for one Module
+* Neumorphic design
+* MVVM Pattern & RxSwift
+* In App Purchases
+* Database: Realm
+* Analytics libraries: MixPanel, Firebase
+* Social Sign ins: Google, Apple
+* Push Notifications
+* CoreBluetooth
+* StoreKit
 
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
