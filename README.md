@@ -37,16 +37,12 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2194.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
-<video width="460" height="995" controls>
-  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/breathing.mov" type="video/mp4">
-</video>
-<video width="460" height="995" controls>
-  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/relaxation.mp4" type="video/mp4">
-</video>
-<video width="460" height="995" controls>
-  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/focus.mp4" type="video/mp4">
-</video>
-</p>
+
+https://user-images.githubusercontent.com/47609408/203153863-dcea0a0d-edcd-43a3-b22c-40f64677eb55.mov
+
+https://user-images.githubusercontent.com/47609408/203153886-fccd5f1f-02e4-4cdd-9c3d-fd065251ad96.mp4
+
+https://user-images.githubusercontent.com/47609408/203153968-e94716d6-b5f6-4a69-815c-7dd037e1003c.mov
 
 # [Vowpay Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users.
