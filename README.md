@@ -38,7 +38,7 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
 <video width="460" height="995" controls>
-  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/breathing.mp4" type="video/mp4">
+  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/breathing.mov" type="video/mp4">
 </video>
 <video width="460" height="995" controls>
   <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/relaxation.mp4" type="video/mp4">
