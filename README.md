@@ -29,22 +29,22 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * StoreKit
 
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2186.jpeg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2189.jpeg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2191.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2192.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2193.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2194.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2186.jpeg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2189.jpeg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2191.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2192.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2193.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2194.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
 <video width="460" height="995" controls>
-  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/breathing.mp4" type="video/mp4">
+  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/breathing.mp4" type="video/mp4">
 </video>
 <video width="460" height="995" controls>
-  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/relaxation.mp4" type="video/mp4">
+  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/relaxation.mp4" type="video/mp4">
 </video>
 <video width="460" height="995" controls>
-  <source src="https://github.com/jwd-ali/portfolio/images/dhyana/focus.mp4" type="video/mp4">
+  <source src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/focus.mp4" type="video/mp4">
 </video>
 </p>
 
