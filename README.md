@@ -135,7 +135,6 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_3.png" width="230" title="Spirituality">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_4.png" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_5.png" width="230" title="Spirituality">
 
 </p>
 
@@ -145,11 +144,11 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_3.png" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_4.png" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_5.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_1.jpeg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_2.jpeg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_3.jpeg" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_4.jpeg" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_5.jpeg" width="230" title="Spirituality">
 </p>
 
 ---
@@ -158,11 +157,10 @@ An easy multiple image picker controller for photo library with swipe select ena
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_3.png" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_4.png" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_5.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_1.jpg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_4.jpg" width="230" title="Spirituality">
 </p>
 
 <p align="center">
