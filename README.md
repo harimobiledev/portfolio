@@ -28,6 +28,7 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * CoreBluetooth
 * StoreKit
 
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2186.jpeg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2189.jpeg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,21 +45,17 @@ https://user-images.githubusercontent.com/47609408/203153886-fccd5f1f-02e4-4cdd-
 
 https://user-images.githubusercontent.com/47609408/203153968-e94716d6-b5f6-4a69-815c-7dd037e1003c.mov
 
-# [Vowpay Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
-Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users.
-Vowpay is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Travis CI.
+# [CMXAR‬]
+CMxAR is Augmented Reality application. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project follows frameworks based modular structure With all UI build programatically. 
 
 ### My Role ###
-Senior iOS developer Communicating with Vowpay Bussiness team, New features and refactoring , understanding requirements and sprint planning.
+Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
 
 ### Technologies ###
 * Swift(5)
-* RxSwift
 * Programatic UI
 * Modular Approaach
-* Dark mode support
-* Fastlane + Travis CI
-* Repository Patteren
+* ARKit
 
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
