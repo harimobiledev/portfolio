@@ -124,7 +124,6 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 
 </p>
 
-# CocoaPods Contributions
 ## [Ascent GRE 4000](https://iosapps.icu/us-app-id845833029#) 
 Preview extractor for news, articles and full-texts in Swift
 ### My Role ###
@@ -163,6 +162,3 @@ An easy multiple image picker controller for photo library with swipe select ena
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_4.jpg" width="230" title="Spirituality">
 </p>
 
-<p align="center">
-<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
-</p>
