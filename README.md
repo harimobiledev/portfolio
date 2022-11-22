@@ -103,72 +103,68 @@ Lead iOS developer and team lead for iOS. Communicating with client, understandi
 </p>
 
 
-# [SalamPlanet](https://itunes.apple.com/us/app/salamplanet/id1135829492?mt=8)
-The Ultimate Muslim Lifestyle App.
-Explore Your Muslim Lifestyle – Socialize, Eat, Play and Pray with SALAM PLANET!
+# [Easy summer recipes](https://iosapps.icu/us-app-id894938197)
+The Ultimate Recipe App. Users can find their favorite recipes in this applicaction. Easy summer recipes is written in Swift and develooped in MVC Architecture. It has Storyboards as well as nibs. 
 
-Worked with a fast paced team to deliver features as soon as possible to the 500k users. SalamPlanet is written in Objective-C with some Swift modules. It has Storyboards as well as nibs. 
+Developer account is not is use.
 
 ### My Role ###
-Senior iOS developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows. 
+Senior iOS developer. My responsibilites were to communicate with my team lead. 
 
 ### Technologies ###
-* Objective-C
-* CoreData
-* AVFoundation
-* Photos
-* Core Location
-* Push Notifications
-* AFNetworking
-* Keychain
-* GoogleMaps
-* Firebase
-* FBSDKLoginKit
-<p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
-</p>
+* Swift
+* SQL
+* Storyboards and Autolayouts
 
+<p align="center">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_1.png" width="230" title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_3.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_4.png" width="230" title="Spirituality">
+
+</p>
 
 # CocoaPods Contributions
-## [ReadabilityKit](https://github.com/exyte/ReadabilityKit) 
+## [Ascent GRE 4000](https://iosapps.icu/us-app-id845833029#) 
 Preview extractor for news, articles and full-texts in Swift
 ### My Role ###
-Date extraction from response data
-<p align="center">
- <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif" title="Readability demo"/>
-</p>
- 
- ---
- 
-## [Smart Lazy Loading](https://github.com/jwd-ali/Smart-Lazy-Loading) 
-Fetch images from source url asynchronously on the basis of priority in Table or Collection View using NSCache and NSOperation
-for better performance
+Senior iOS developer. My responsibilites were to communicate with my team lead. 
 
-### Technologies ###
-* Swift(5)
-* NSOperation 
-* NSOperationQueue with KVO
-* NSCache
-* NSUrlRequest 
-* NSUrlSession
+<p align="center">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_3.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_4.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_5.png" width="230" title="Spirituality">
+
+</p>
 
 ---
 
-## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
+## [The Eckhart Tolle Collection](https://appadvice.com/app/the-eckhart-tolle-collection/650718393) 
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
 <p align="center">
-<a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_3.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_4.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_5.png" width="230" title="Spirituality">
 </p>
 
-## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
-Easy to use customised action sheet picker inspired by UIAlertController
+---
+
+## [General Knowledge Trivia](https://appadvice.com/app/general-knowledge-trivia/583373949) 
+An easy multiple image picker controller for photo library with swipe select enabled.
+* IOS 13 Dark mode enabled 
+<p align="center">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_3.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_4.png" width="230" title="Spirituality">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_5.png" width="230" title="Spirituality">
+</p>
 
 <p align="center">
 <a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
 </p>
-
-# Stack over flow Contributions
-I am an active contributor on stackoverflow  : 
-https://stackoverflow.com/story/jawadali
