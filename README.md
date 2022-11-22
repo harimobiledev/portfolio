@@ -44,12 +44,6 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="iPad version">
 
-https://user-images.githubusercontent.com/47609408/203153863-dcea0a0d-edcd-43a3-b22c-40f64677eb55.mov
-
-https://user-images.githubusercontent.com/47609408/203153886-fccd5f1f-02e4-4cdd-9c3d-fd065251ad96.mp4
-
-https://user-images.githubusercontent.com/47609408/203153968-e94716d6-b5f6-4a69-815c-7dd037e1003c.mov
-
 # [CMXAR‬]
 CMxAR is Augmented Reality application. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project follows frameworks based modular structure With all UI build programatically. 
  
@@ -72,10 +66,10 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 </p>
 
 
-# [CM Talks]
-Using Augmented Reality, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the infront of a posters of Karnataka Congress, app will play the CM message exactly on those posters.
+# [HebatkanNegaraku]
+Using Augmented Reality, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the infront of a posters of Malaysia prime minister, app will start playing the PM message on those posters.
 
-CM Talks is an seasonal application. It was removed from Appstore after the 2018 elections over.
+HebatkanNegaraku is an seasonal application. It was removed from Appstore after the 2018 elections over.
 
 ### My Role ###
 Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
@@ -87,7 +81,8 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * ARKit
 
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_1.png" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_2.png" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_3.png" width="230" title="iPad version">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_1.png" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_2.png" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # [Slick](Under development)
