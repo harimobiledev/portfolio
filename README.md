@@ -85,36 +85,21 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
  <img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_2.png" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# [Slick](Under development)
-slick is an articles sharing platform which enables you to rate article authenticity.
-**Curate** articles from Apps,Websites and Print Media
-**Populate** your news feed by following Friends, Family or anyone that interests you. Find  Contacts on slick or head to the Trending tab to follow users with similar interests
-**Rate** content for integrity, accuracy and trustworthiness
+# [ABC's of Breast Health](https://apps.apple.com/us/app/abcs-of-breast-health/id1482487468)
 
-This application consists of best animationts with *UIDynamicAnimator*, UI design, and easily-extended architecture (*VIPER*) using Firebase realtime database with cloud storage and *ML kit* for **OCR** Slick is built with Xcode and written entirely in Objective C. It utilizes Auto Layout with Storyboard for UI design.This app convert image news to Text and then Text to that news URL to post it in the application.
+ABC's of Breast Health is an awareness application for Breast cancer. It's a html based reading application and users can see and hear PV Sindhu's message using ARKit technology. Users just need to scan the floor and tap on a place to start playing message.
 
 ### My Role ###
-Lead iOS developer and team lead for iOS . Communicating with client, understanding requirements and sprint planning.
+Lead iOS developer and team lead for iOS. Communicating with client, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Objective c
-* Reachability kit modified to add date support
-* CoreLocation
+* Swift
+* Storyboards and Autolayouts
 * AVFoundation
-* Photos
-* Push Notifications with cloud messaging 
-* Firebase Firestore
-* GoogleSignIn
-* FBSDKLoginKit 
-* twitter-kit-ios
-* *Share Extension* 
-* *today Extension* 
-* 3D touch enabled 
-* Face id and thumb Sign in enabled
-
+* ARKit
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
+<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_1.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_2.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_3.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
