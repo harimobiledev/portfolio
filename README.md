@@ -5,6 +5,8 @@ Overall 10 years of experience in Mobile App Development using Swift, SwiftUI an
 # [Dhyana: Meditation Tracker](https://apps.apple.com/in/app/dhyana-meditation-tracker/id1471290028)
 Dhyana is meditation application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, tracks user's heart rate with in-house heart rate monitor via CoreBluetooth framework. App entirely developed in trending Neumorphic theme. Project follows frameworks based modular structure With UI build using Storyboards and SwiftUI.
 
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Dhyana is built with Xcode and written entirely in Swift 5. Dhyana is my ongoing project.
+
 Dhyana is an iF design award winner in 2020 and also came in Apple Appstore's top chartered 50 list.
 
 ### My Role ###
@@ -27,6 +29,9 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * Push Notifications
 * CoreBluetooth
 * StoreKit
+* AVFoundation
+* Alamofire
+* Lottie-Animations
 
 ### Screenshots ###
 <p align="center">
@@ -47,13 +52,15 @@ https://user-images.githubusercontent.com/47609408/203153968-e94716d6-b5f6-4a69-
 
 # [CMXAR‬]
 CMxAR is Augmented Reality application. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project follows frameworks based modular structure With all UI build programatically. 
+ 
+It's an seasonal application. It was removed from Appstore after the 2018 elections over.
 
 ### My Role ###
 Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Swift(5)
-* Programatic UI
+* Swift
+* Storyboards and Autolayouts
 * Modular Approaach
 * ARKit
 
@@ -65,30 +72,20 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 </p>
 
 
-# [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
-An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
+# [CM Talks]
+Using Augmented Reality, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the infront of a posters of Karnataka Congress, app will play the CM message exactly on those posters.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Hidebox is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. Hidebox is my ongoing project.
+CM Talks is an seasonal application. It was removed from Appstore after the 2018 elections over.
 
 ### My Role ###
-Senior iOS developer Communicating with client, understanding requirements and sprint planning.
+Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Swift(4-5)
-* CoreData
-* CoreLocation
-* AVFoundation
-* Photos
-* Push Notifications
-* Alamofire
-* Keychain
-* GoogleMaps
-* Firebase
-* Kingfisher
-* Hero
-* Lottie-Animations
-* GoogleSignIn
-* FBSDKLoginKit
+* Swift
+* Storyboards and Autolayouts
+* Modular Approaach
+* ARKit
+
 <p align="center">
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
 </p>
