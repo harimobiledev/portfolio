@@ -42,7 +42,8 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2194.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+ 
+---
 # [CMXAR‬]
 CMxAR is revolutionary Augmented Reality application which is used for political campeign. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project was written in Swift with all UI build programatically. 
  
@@ -57,6 +58,7 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * Modular Approaach
 * ARKit
 
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_1.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_2.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +66,7 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/cmxar_4.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+---
 # [HebatkanNegaraku]
 Using Augmented Reality with marker technology, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the phone camera infront of the posters of Malaysia Ex prime minister Mr. Najib Razak, app will start playing the PM message on those posters.
 
@@ -78,13 +80,14 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * Storyboards and Autolayouts
 * Modular Approaach
 * ARKit
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_3.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+---
 # [ABC's of Breast Health](https://apps.apple.com/us/app/abcs-of-breast-health/id1482487468)
 
 ABC's of Breast Health is an awareness application for Breast cancer. It's a html based reading application and users can also see and hear PV Sindhu's message using ARKit technology. Users just need to scan the floor and tap on any place to start playing message.
@@ -97,13 +100,14 @@ Lead iOS developer communicating with client, understanding requirements and spr
 * Storyboards and Autolayouts
 * AVFoundation
 * ARKit
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_1.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_2.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_3.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+---
 
 (All the below apps are from my previous organization and developer account was not in use. So adding third party website links which has all the information about the Applications)
 # [Easy summer recipes](https://iosapps.icu/us-app-id894938197)
@@ -118,7 +122,7 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 * Objective C
 * SQL database
 * Storyboards and Autolayouts
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_1.png" width="230" title="">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_2.png" width="230" title="">
@@ -126,8 +130,9 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_4.png" width="230" title="">
 </p>
 
+---
 ## [Ascent GRE 4000](https://iosapps.icu/us-app-id845833029#) 
-Ascent GRE 4000 is read and practice application for candidates who are preparing for GRE. It has a revolutionary ui design. Especially the home screen which has list of chapters. Chapters were organized in a list with tree theme and was developed with the deep understanding of UICollectionView. The project was completely written in swift and programmatic UI.
+Ascent GRE 4000 is read and practice application for candidates who are preparing for GRE. It has a revolutionary ui design. Especially the Timeline screen which has list of chapters. Chapters were organized in a list with tree theme and was developed with the deep understanding of UICollectionView. The project was completely written in swift and programmatic UI.
 
 ### My Role ###
 iOS developer. My responsibilites were to communicate with my team lead.
@@ -136,7 +141,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * Objective C
 * SQL database
 * Storyboards and Autolayouts
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -158,7 +163,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * SQL database
 * Storyboards and Autolayouts
 * StoreKit
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_1.jpeg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_2.jpeg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -181,7 +186,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * Storyboards and Autolayouts
 * StoreKit
 * GameKit 
-
+### Screenshots ###
 <p align="center">
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_1.jpg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
